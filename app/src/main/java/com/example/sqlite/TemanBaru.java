@@ -53,4 +53,5 @@ public class TemanBaru extends AppCompatActivity {
         startActivity(intent);
         finish();
     }
+    
 }

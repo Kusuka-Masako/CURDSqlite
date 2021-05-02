@@ -24,5 +24,13 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent" >
 
-    </androidx.recyclerview.widget.RecyclerView>
+    </androidx.recyclerview.widget.RecyclerView><![CDATA[
+
+    android:layout_width="216dp"
+        android:layout_height="138dp"
+        app:layout_constraintBottom_toBottomOf="@+id/recycleview"
+        app:layout_constraintEnd_toEndOf="@+id/recycleview"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/recycleview" />
+]]>
 </androidx.constraintlayout.widget.ConstraintLayout>

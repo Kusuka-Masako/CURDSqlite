@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SQLite</string>
+    <string name="deletedata">Delete Data</string>
+    <string name="editdata">Edit Data</string>
+    <string name="tombol_edit">Save</string>
+    <string name="tombol_cancel">Cancel</string>
 </resources>
